@@ -412,7 +412,7 @@ table>tbody>tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
 table>tbody>tr:hover {
-  background-color: rgba(255,0,0,0);
+  background-color: #999;
 }
 caption,
 th,
@@ -1359,7 +1359,7 @@ pre .javascript .function {
   margin-left: -2px;
   width: 4px;
   height: 100%;
-  background: rgba(255,0,0,0);
+  background: #999;
   z-index: -1;
 }
 @media (max-width: 767px) {
@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9cffff;
+  background: #bacf96;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3137,12 +3137,12 @@ body {
 }
 .headband {
   height: 3px;
-  background: #ff85ad;
+  background: #ffaf8f;
 }
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #ff85ad;
+  background: #ffaf8f;
 }
 .posts-expand .post-title-link::before {
   content: "";
@@ -3151,7 +3151,7 @@ body {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #ff85ad;
+  background-color: #ffaf8f;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
