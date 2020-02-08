@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #44368c;
+  background: #814b41;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3137,12 +3137,12 @@ body {
 }
 .headband {
   height: 3px;
-  background: #ffaf8f;
+  background: #f66;
 }
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #ffaf8f;
+  background: #f66;
 }
 .posts-expand .post-title-link::before {
   content: "";
@@ -3151,7 +3151,7 @@ body {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #ffaf8f;
+  background-color: #f66;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
